@@ -7,3 +7,5 @@ env
 venv
 *.sublime*
 README.rst
+.env
+.gitignore
