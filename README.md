@@ -27,12 +27,12 @@ This project is a web application that allows users to browse movies from Wikida
 - go into the project directory:
 ```cd Appsilon_test```
 - install docker, docker compose
-- create .env file:
-    POSTGRES_USER=appsilon
-    POSTGRES_PASSWORD=12345
-    POSTGRES_DB=appsilon
-    ADMIN_USERNAME=admin
-    ADMIN_PASSWORD=admin
-    SECRET_KEY=BLABLABLA
+- create .env file with your values:
+    - POSTGRES_USER=appsilon
+    - POSTGRES_PASSWORD=12345
+    - POSTGRES_DB=appsilon
+    - ADMIN_USERNAME=admin
+    - ADMIN_PASSWORD=admin
+    - SECRET_KEY=BLABLABLA
 - run command:
 ```docker compose run --build```
