@@ -15,12 +15,11 @@ This project is a web application that allows users to browse movies from Wikida
 
 ## Requirements
 
-- Python 3.10
-- Flask AppBuilder
-- Docker
-- PostgreSQL
+- docker
+- docker compose
 
 ## Installation
+
 
 - clone repository
 ```git clone https://github.com/your-username/Appsilon_test.git```
